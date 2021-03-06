@@ -1,1 +1,1 @@
-# Different-project-and-assignmets-in-Machine-learning-with-R
+# project-and-assignmets-in-Machine-learning-with-R
